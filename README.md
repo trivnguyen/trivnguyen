@@ -1,6 +1,6 @@
 # Tri Nguyen's Github Profile
 
-Hello hello! I'm a Ph.D. candidate at the MIT Kavli Institute for Astrophysics and Space Research. I'm also a Pre-Doctoral Researcher at the Center for Computational Astrophysics (CCA) at the Flatiron Institute. I'm interested in using machine learning to understanding structure formation in the Universe.
+Hello hello! I'm a Ph.D. candidate at the MIT Kavli Institute for Astrophysics and Space Research. I'm also a Pre-Doctoral Researcher at the Center for Computational Astrophysics (CCA) at the Flatiron Institute. I'm interested in using machine learning to understand structure formation in the Universe.
 
 I'm currently working with Prof. Lina Necib at MIT and Prof. Rachel Sommerville at CCA on various projects:
 
